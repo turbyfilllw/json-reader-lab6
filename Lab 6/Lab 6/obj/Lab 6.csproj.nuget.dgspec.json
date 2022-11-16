@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/logan/Projects/Lab 6/Lab 6/Lab 6.csproj": {}
+    "/Users/logan/Projects/json-reader-lab6/Lab 6/Lab 6/Lab 6.csproj": {}
   },
   "projects": {
-    "/Users/logan/Projects/Lab 6/Lab 6/Lab 6.csproj": {
+    "/Users/logan/Projects/json-reader-lab6/Lab 6/Lab 6/Lab 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/logan/Projects/Lab 6/Lab 6/Lab 6.csproj",
+        "projectUniqueName": "/Users/logan/Projects/json-reader-lab6/Lab 6/Lab 6/Lab 6.csproj",
         "projectName": "Lab 6",
-        "projectPath": "/Users/logan/Projects/Lab 6/Lab 6/Lab 6.csproj",
+        "projectPath": "/Users/logan/Projects/json-reader-lab6/Lab 6/Lab 6/Lab 6.csproj",
         "packagesPath": "/Users/logan/.nuget/packages/",
-        "outputPath": "/Users/logan/Projects/Lab 6/Lab 6/obj/",
+        "outputPath": "/Users/logan/Projects/json-reader-lab6/Lab 6/Lab 6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/logan/.nuget/NuGet/NuGet.Config"

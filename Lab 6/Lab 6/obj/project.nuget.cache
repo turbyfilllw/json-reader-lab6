@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "85pjXNK/KA0M+AfRNKGCyxeG2bJ+95dyMGbhtV3hnJaW4edwbHIMBhPfsLLcEccR60JpkI5nLZSDieEzXVenvg==",
+  "dgSpecHash": "Bzq4rWhoeV+KKu6syiokK46eoCfiZOhmmtb4FJ6SBpOYmeYXXAMMo6id/NR/rJqAFQi0D+cON3rOKCZbctBDGA==",
   "success": true,
-  "projectFilePath": "/Users/logan/Projects/Lab 6/Lab 6/Lab 6.csproj",
+  "projectFilePath": "/Users/logan/Projects/json-reader-lab6/Lab 6/Lab 6/Lab 6.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

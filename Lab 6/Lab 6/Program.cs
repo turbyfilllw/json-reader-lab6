@@ -30,7 +30,7 @@ class Program
         Console.ReadKey();
     }
 
-    private static string WriteJsonToFile(string writeJSON)
+    private static void WriteJsonToFile(string writeJSON)
     {
         string jsonString;
         var options = new JsonSerializerOptions { WriteIndented = true };
@@ -40,8 +40,6 @@ class Program
         {
             sw.WriteLine(jsonString);
         }
-
-        return jsonString;
     }
 
     static List<Book> ReadBookFile(List<string> fileNames)
