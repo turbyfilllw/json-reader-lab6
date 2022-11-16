@@ -1,0 +1,71 @@
+{
+  "kind": "books#volume",
+  "id": "llmymwEACAAJ",
+  "etag": "ooJqqx8VzhQ",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/llmymwEACAAJ",
+  "volumeInfo": {
+    "title": "The Hunger Games",
+    "authors": [
+      "Suzanne Collins"
+    ],
+    "publisher": "Scholastic",
+    "publishedDate": "2013",
+    "description": "First in the ground-breaking HUNGER GAMES trilogy. Set in a dark vision of the near future, a terrifying reality TV show is taking place. Twelve boys and twelve girls are forced to appear in a live event called The Hunger Games. There is only one rule: kill or be killed. When sixteen-year-old Katniss Everdeen steps forward to take her younger sister's place in the games, she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1407139797"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781407139791"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 435,
+    "printedPageCount": 435,
+    "dimensions": {
+      "height": "20.00 cm",
+      "width": "12.80 cm",
+      "thickness": "2.90 cm"
+    },
+    "printType": "BOOK",
+    "averageRating": 4,
+    "ratingsCount": 3214,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=llmymwEACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE72g3KfT0wpPL2F5zldh_tvpEOt7jC8PXZlbnv7gOnRKvcRlqdlKTsdGh82vL2vpOHqbiva8fyo52d4EYOORPh7kYImWJYJta1-57zFyC5CPbcRybO1HIRP1lT_I_3yMY80TUZF1&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=llmymwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WdZSfPH9ykgde5SWTcysGl_-EUoOVru56tFybISe1qLccVZ8XYRlypfsNPghS-Lkajmcw0S-l06XrgPPAsfiJQ6of-u9WF81ntzXhJuB-EbfKiNGEhn2hriHRorc1GJcIewwP&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=llmymwEACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=llmymwEACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=llmymwEACAAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=llmymwEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

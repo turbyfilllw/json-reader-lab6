@@ -1,0 +1,74 @@
+{
+  "kind": "books#volume",
+  "id": "Wbm1mQEACAAJ",
+  "etag": "jbPhl3/hSnI",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/Wbm1mQEACAAJ",
+  "volumeInfo": {
+    "title": "The Hobbit, Or, There and Back Again",
+    "authors": [
+      "John Ronald Reuel Tolkien"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2013",
+    "description": "\u003cp\u003eGive this beautiful gift edition of J.R.R. Tolkien's enchanting tale, The Hobbit, fully illustrated by artist Jemima Catlin. \u003c/p\u003e\u003cp\u003eIn The Hobbit, Bilbo Baggins enjoys a comfortable, unambitious life, rarely traveling farther than the pantry of his hobbit-hole in Bag End. But his contentment is disturbed when the wizard Gandalf and a company of thirteen dwarves arrive on his doorstep to whisk him away on a journey to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon....\u003c/p\u003e\u003cp\u003e\"A glorious account of a magnificent adventure, filled with suspense and seasoned with a quiet humor that is irresistible... All those, young or old, who love a fine adventurous tale, beautifully told, will take The Hobbit to their hearts.\"--The New York Times Book Review\u003c/p\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0544174224"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780544174221"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 374,
+    "printedPageCount": 374,
+    "dimensions": {
+      "height": "24.00 cm",
+      "width": "17.80 cm",
+      "thickness": "3.10 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Fantasy / Epic",
+      "Fiction / Fairy Tales, Folk Tales, Legends & Mythology",
+      "Fiction / Literary"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=Wbm1mQEACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE71Qe-RZ93yR-5AWgT_e-fW3blVQoLgVOpiZqinAzB2_2QZw5RxG9ESaeymweiSmzrF1WiphrASpTWvDEds6dIrbkK5wVEdHJ_RDC53b-utcE922P0EEv7SDM77Iq_FshqPF2Ibf&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=Wbm1mQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70wpmjFGb8sxdFMqeHIN0Vgo3DQAZXycRL3jRjnPZVnMXTWP_aq3DH2Zc-hPuvulL16sVZaI3oFKfRHJJgYA7Jrgh6HfMm2LLhPiApK8Lu2nduthdqxMCis-CsRQoNxXhvsSXsE&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Wbm1mQEACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Wbm1mQEACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Wbm1mQEACAAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Wbm1mQEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

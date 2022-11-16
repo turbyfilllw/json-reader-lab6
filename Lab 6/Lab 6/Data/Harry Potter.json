@@ -1,0 +1,80 @@
+{
+  "kind": "books#volume",
+  "id": "3YUrtAEACAAJ",
+  "etag": "jH6sQpEqq6Y",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/3YUrtAEACAAJ",
+  "volumeInfo": {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "authors": [
+      "J. K. Rowling"
+    ],
+    "publisher": "Scholastic Incorporated",
+    "publishedDate": "2018",
+    "description": "\u003cb\u003eA special new edition in celebration of the 20th anniversary of the publication of \u003ci\u003eHarry Potter and the Sorcerer's Stone\u003c/i\u003e, with a stunning new cover illustration by Caldecott Medalist Brian Selznick. \u003c/b\u003e\u003cbr\u003e\u003cbr\u003e Harry Potter has never been the star of a Quidditch team, scoring points while riding a broom far above the ground. He knows no spells, has never helped to hatch a dragon, and has never worn a cloak of invisibility.\u003cbr\u003e\u003cbr\u003e All he knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley - a great big swollen spoiled bully. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years.\u003cbr\u003e\u003cbr\u003e But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to an incredible place that Harry - and anyone who reads about him - will find unforgettable.\u003cbr\u003e\u003cbr\u003e For it's there that he finds not only friends, aerial sports, and magic in everything from classes to meals, but a great destiny that's been waiting for him... if Harry can survive the encounter.\u003cbr\u003e\u003cbr\u003e This gorgeous new edition in celebration of the 20th anniversary of the publication of \u003ci\u003eHarry Potter and the Sorcerer's Stone\u003c/i\u003e features a newly designed cover illustrated by Caldecott Medalist Brian Selznick, as well as the beloved original interior decorations by Mary GrandPr .",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "133829914X"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781338299144"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 309,
+    "printedPageCount": 309,
+    "dimensions": {
+      "height": "21.00 cm",
+      "width": "13.30 cm",
+      "thickness": "2.20 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Juvenile Fiction / Action & Adventure / General",
+      "Juvenile Fiction / Fantasy & Magic",
+      "Juvenile Fiction / Social Themes / Friendship"
+    ],
+    "averageRating": 5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=3YUrtAEACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE72uOsPgtPh1O7eL09IFR40kBgSYlhFCYUrOwVS70ZhAcdRkGi-BzvI1cETsnfffkJt37n69ELn4J8Fko2TFzsWInpUUiEUeBYBs8Xjza0d6-oN26XLyraKhJviV6vVCKhCT4eCA&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=3YUrtAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72iaKSF_IllbfeDfTx8LOmqzVYPLlPuCD0G2cI3_yCY8kykuLNhFW2ZqBGd8fJXmlw3g3f60p9CyJd-H3JBk-RfXUKK4Mkoy_Ias9fLpbm9RaWYJoA8_4vZj6TTn6gmi7GV2iyD&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3YUrtAEACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3YUrtAEACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3YUrtAEACAAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3YUrtAEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

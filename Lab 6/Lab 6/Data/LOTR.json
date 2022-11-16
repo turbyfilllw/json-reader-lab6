@@ -1,0 +1,115 @@
+{
+  "kind": "books#volume",
+  "id": "aWZzLPhY4o0C",
+  "etag": "mn7Lc7HhaE0",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/aWZzLPhY4o0C",
+  "volumeInfo": {
+    "title": "The Fellowship Of The Ring",
+    "subtitle": "Being the First Part of The Lord of the Rings",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2012-02-15",
+    "description": "\u003cp\u003eBegin your journey into Middle-earth...\u003c/p\u003e\u003cp\u003eThe inspiration for the upcoming original series on Prime Video, The Lord of the Rings: The Rings of Power.\u003c/p\u003e\u003cp\u003eThe Fellowship of the Ring is the first part of J.R.R. Tolkien’s epic adventure The Lord of the Rings.\u003c/p\u003e\u003cp\u003eOne Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.\u003c/p\u003e\u003cp\u003eSauron, the Dark Lord, has gathered to him all the Rings of Power—the means by which he intends to rule Middle-earth. All he lacks in his plans for dominion is the One Ring—the ring that rules them all—which has fallen into the hands of the hobbit, Bilbo Baggins.\u003c/p\u003e\u003cp\u003eIn a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.\u003c/p\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0547952015"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780547952017"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": false
+    },
+    "pageCount": 432,
+    "printedPageCount": 638,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Classics",
+      "Fiction / Fantasy / Epic",
+      "Fiction / Fantasy / Action & Adventure",
+      "Fiction / Fairy Tales, Folk Tales, Legends & Mythology",
+      "Fiction / Media Tie-In",
+      "Fiction / Fantasy / Dragons & Mythical Creatures"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 73,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.26.25.0.preview.2",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=aWZzLPhY4o0C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70M6WRzAkoKDDcmY0eyFsMhypimB3d0CWt3GCxK3f1I2U0mIdgtGxjgdhhymJS3XnmdEX7uEShHlaUcIUtnz8UIX-9xH-JXElUXJviG38LEQLGFyyMcGpOwiXaLGYTbKllL0t2I&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=aWZzLPhY4o0C&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70co9WoAfDjpvwTRTyD9dhEziS_Nh_9nIPw65VKQDu3jkpYDOhscPMFYac6VW9pO4nQ_LZZGc88U9UZ7ffLDcCnrm5WibdQHtO4vRQu8CDAYKyIbi93Tf2ZetHNcQjk_k84CUX3&source=gbs_api",
+      "small": "http://books.google.com/books/content?id=aWZzLPhY4o0C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72PZ3-FdWersmhS59hBWsw5dN_N0YPtibcjQTQzXSCRB00aJ9mHN8GFSv856_433_VJQD0lL-SVCRDbcEGFUJGazDBmr8WE9VBT5bZdeEdxUIoppfYtnxhJG87xsrt4ulNdaZh5&source=gbs_api",
+      "medium": "http://books.google.com/books/content?id=aWZzLPhY4o0C&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73P5j77o7ci6_VG7brVDhhQgnr0vOSdN6m_DsVpUJ0__5dQyMSXrV1_60Rg9M1kFqV1avmjecJWXR4MOH9J2BcsPRcjz-M8beWiGWsLKRhxYkt9cehy_0cHjPrvKU9o2x4wA-N8&source=gbs_api",
+      "large": "http://books.google.com/books/content?id=aWZzLPhY4o0C&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72e4Q8WOO5Kkz1D0TLJU-9hHlWgM4G6xVILi6Jk7p6udd5z5ii0HHINOP27XT8j8DgbTXq320-1G2zfH1fPVfP4f89ozuasJHyKjbDbIVIrjoK_g_MWmWO5QfBBivPkiwpos-cv&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/content?id=aWZzLPhY4o0C&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72T1yYvpei9YtsIggPTm6KRvkkZ_ayVna_jcq4RYymBEliFZZM-sZGAIM3FGQ9XLZgUQZvj5YSxWq0MgQuNu_LBlKsjpSlHkyWY3VXd_965sFTIYVRxwYjRnu_AFWi_yTTG8I0N&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=aWZzLPhY4o0C&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aWZzLPhY4o0C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aWZzLPhY4o0C"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "40"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 11.99,
+      "currencyCode": "USD"
+    },
+    "retailPrice": {
+      "amount": 11.99,
+      "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aWZzLPhY4o0C&rdid=book-aWZzLPhY4o0C&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 11990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 11990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/The_Fellowship_Of_The_Ring-sample-epub.acsm?id=aWZzLPhY4o0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aWZzLPhY4o0C&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}
